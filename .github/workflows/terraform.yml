@@ -1,0 +1,8 @@
+name: "Vprofile IAC"
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
